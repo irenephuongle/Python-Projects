@@ -2,3 +2,5 @@ dash
 dash-bootstrap-components
 pandas
 scipy
+
+use http://127.0.0.1:8050/ to run the program
